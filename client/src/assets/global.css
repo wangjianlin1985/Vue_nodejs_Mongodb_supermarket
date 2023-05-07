@@ -1,0 +1,32 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* 卡片 */
+.el-card{
+  margin-top: 25px;
+  min-height: 550px;
+}
+
+/* 面包屑导航 */
+.el-breadcrumb{
+  font-size: 12px;
+}
+
+/* 表格 */
+.el-table{
+  font-size: 12px;
+  margin-top: 25px;
+}
+
+/* 分页区域 */
+.el-pagination{
+  margin-top: 25px;
+}
+
+/* 图片预览 */
+.previewImg{
+  width: 100%;
+}
